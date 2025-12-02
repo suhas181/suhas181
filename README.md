@@ -50,11 +50,13 @@ I work with both backend and frontend technologies and practice DSA regularly to
 
 
 ## 📊 GitHub Stats
-![Suhas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhas181&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhas181&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhas181&layout=compact&theme=tokyonight)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhas181&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhas181&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhas181&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
 
 ## ✨ Wanted: Internship
 I’m actively applying for Backend / Full-Stack internships.  
