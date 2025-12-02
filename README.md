@@ -16,6 +16,15 @@ I work with both backend and frontend technologies and practice DSA regularly to
 💬 Ask me about: Java, DSA, Backend Development & Node.js
 
 ---
+## 🎥 Content Creation
+
+I also create content on Instagram about:
+- Placements & career guidance  
+- Coding and development  
+- Student productivity and tech insights  
+
+📌 Goal: Helping students learn and grow in tech 🚀
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suhas_s_gowda_18/?hl=en)
 
 
 ## 🌐 Socials
