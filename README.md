@@ -23,7 +23,7 @@ I also create content on Instagram about:
 - Coding and development  
 - Student productivity and tech insights  
 
-📌 Goal: Helping students learn and grow in tech 🚀
+📌 Goal: Helping students learn and grow in tech 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suhas_s_gowda_18/?hl=en)
 
 
