@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Suhas H S
 
+![Visitor Count](https://komarev.com/ghpvc/?username=suhas181&color=blue&style=flat-square&label=Profile+Views)
+
 Full Stack Web Development (Learning Path)  
 3rd Year CSE Student @ Bangalore  
 Interested in Full Stack, Backend & DSA  
