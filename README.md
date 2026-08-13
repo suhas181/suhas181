@@ -8,7 +8,7 @@ Interested in Full Stack, Backend & DSA
 ---
 
 ## 💫 About Me
-I’m a 3rd year Computer Science student passionate about building full-stack applications.  
+I’m a 4th year Computer Science student passionate about building full-stack applications.  
 I work with both backend and frontend technologies and practice DSA regularly to improve my problem-solving skills.
 
 🔭 Looking for: Internship (SDE / Backend / Full-Stack)  
