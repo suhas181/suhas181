@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Suhas H S
 
 Full Stack Web Development (Learning Path)  
-3rd Year CSE Student @ Bangalore  
+4th Year CSE Student @ Bangalore  
 Interested in Full Stack, Backend & DSA  
 📩 Email: hssuhas661@gmail.com  
 
